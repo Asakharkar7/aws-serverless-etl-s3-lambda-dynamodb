@@ -11,7 +11,7 @@ This is a real-world industry pattern used in fintech, retail, and supply-chain 
 
 ## 🚀 Architecture Overview
 
-![Architecture Diagram](architecture/etl_architecture_diagram_clean.png)
+/mnt/data/b7546c41-5ed4-4baf-9c98-03404081d051.png 
 
 
 
